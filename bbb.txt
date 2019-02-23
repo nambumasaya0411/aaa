@@ -1,4 +1,0 @@
-class bbb{
-
-print("hello world")
-}
